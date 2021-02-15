@@ -20,4 +20,4 @@ I'm glad there's a legend to organize all of the information and show what to lo
 to figure out what I was seeing.
 
 
-![image](visReflection2.png)
+![image](visReflection2.PNG)
