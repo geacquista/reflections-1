@@ -14,4 +14,4 @@ My favorite aspect to this design is the hover feature that can focus on a singu
 This is helpful because maybe somebody is only interested in finding out the details of a specific character or a specific relationship.
 Overall, this was a really cool visualization and showed some interesting data!
 
-[!image](gameOfThrones.png)
+![image](gameOfThrones.PNG)
