@@ -4,7 +4,7 @@ Week 7
 The link to my vis-related research paper is here:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5302463/
 
-##Summary of Research
+## Summary of Research
 The visualization research paper I found for this week's reflection is "Beyond simple charts: Design
 of visualizations for big health data." 
 This research explains how integrating complex health data with interactive visualizations can improve 
@@ -14,7 +14,7 @@ efficient if the vis tools use more than just simple charts.
 This paper goes on to demonstrate how a framework-based approach helps designers create more elaborate
 and effective visualizations for big health data.
 
-##Systematic Design of Visualizations for Big Public Health Data: Geography
+## Systematic Design of Visualizations for Big Public Health Data: Geography
 I'm choosing to write about the geography visualization because I found it to be the most interesting 
 visualization of the four.
 In the explanation, everything is laid out, expressing a clear framework for every aspect of the data.
