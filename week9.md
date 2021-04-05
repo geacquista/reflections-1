@@ -29,6 +29,6 @@ there can still be very high coverage on the entire data set.
 The second scenario addresses the actual goal of synthesizing motion capture data and concludes that
 based on previous labeling of even a small sequence can be significant in larger data collections.
 Overall I really liked reading about this cross between human users and computer algorithms analyzing human motion data.
-[!image](week9-1.PNG)
-[!image](week9-2.PNG)
+![image](week9-1.PNG)
+![image](week9-2.PNG)
 
