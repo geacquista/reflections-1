@@ -1,6 +1,6 @@
 ## Week 10
 
-The research article I've found for this week is located here, DOI: 10.1109/VISUAL.2002.1183821
+The research article I've found for this week is located here, DOI: 10.1109/VISUAL.2002.1183821 , link: https://ieeexplore.ieee.org/document/1183821
 
 I thought this article was particularly interesting because the researchers explore techniques for visualizing flow structures efficiently to avoid problems regarding the industrial applications (vortex rope of a water turbine).
 
