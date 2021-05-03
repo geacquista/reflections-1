@@ -13,3 +13,5 @@ I find that they take real data and skew it to fit their agenda, their idea. It'
 The researchers conclude that convincing these people to support public health measures requires more than good data visualizations, but engagement with the social world of vis.
 It is important to not only create "better" vis, but also have people who will be able to efficiently interpret them and explain them to others.
 We need to recognize systemic dynamics that contribute to the rift between people, science, and public health.
+
+![img](covidAbstract.PNG)
